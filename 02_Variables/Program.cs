@@ -76,7 +76,6 @@ namespace _02_Variables
 
             #endregion
 
-
             #region Klavyeden İnteger Girişleri ve Dönüşümleri
 
             //int computerPrice;
